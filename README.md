@@ -59,15 +59,12 @@
 ### Other
 ![Three.js](https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=threedotjs&logoColor=fff)
 
-
-
 <h1>📊 GitHub Stats:</h1>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabithapaulraj&theme=dracula&hide_border=true" style="width: 70%; max-width: 300px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabithapaulraj&theme=dracula&hide_border=true" width="400" alt="GitHub Streak Stats">
 </div>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabithapaulraj&theme=dracula&show_icons=true&hide_border=true&count_private=true" style="width: 70%; max-width: 300px; margin: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabithapaulraj&theme=dracula&show_icons=true&hide_border=true&layout=compact" style="width: 70%; max-width: 200px; margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabithapaulraj&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="525" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabithapaulraj&theme=dracula&show_icons=true&hide_border=true&layout=compact" width="400" alt="Top Languages">
 </div>
-
 
