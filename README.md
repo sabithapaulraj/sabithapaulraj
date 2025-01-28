@@ -71,9 +71,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabithapaulraj&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="150">
 </div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sabithapaulraj&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
-</p>
-
 
 
