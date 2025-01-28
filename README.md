@@ -22,10 +22,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)
 
 ### Back-End Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -43,7 +41,6 @@
 ### Cloud and DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)
 
 ### Tools and Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
@@ -56,13 +53,9 @@
 ![Scikit](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-### Other
-![Three.js](https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=threedotjs&logoColor=fff)
 
 <h1>📊 GitHub Stats:</h1>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabithapaulraj&theme=dracula&hide_border=true" width="400" alt="GitHub Streak Stats">
-</div>
+
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=sabithapaulraj&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="525" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabithapaulraj&theme=dracula&show_icons=true&hide_border=true&layout=compact" width="400" alt="Top Languages">
