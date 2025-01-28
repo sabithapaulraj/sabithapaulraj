@@ -61,15 +61,13 @@
 
 
 
-
 <h1>📊 GitHub Stats:</h1>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabithapaulraj&theme=dracula&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabithapaulraj&theme=dracula&hide_border=true" style="width: 70%; max-width: 300px;">
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabithapaulraj&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabithapaulraj&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="150">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabithapaulraj&theme=dracula&show_icons=true&hide_border=true&count_private=true" style="width: 70%; max-width: 300px; margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabithapaulraj&theme=dracula&show_icons=true&hide_border=true&layout=compact" style="width: 70%; max-width: 200px; margin: 10px;">
 </div>
-
 
 
