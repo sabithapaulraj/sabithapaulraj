@@ -60,4 +60,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sabithapaulraj&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="525" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabithapaulraj&theme=dracula&show_icons=true&hide_border=true&layout=compact" width="400" alt="Top Languages">
 </div>
-
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;" >
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabithapaulraj" alt="aldrinlijo04" /></a> </p>
+</div>
